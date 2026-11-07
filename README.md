@@ -10,12 +10,13 @@
 
 ## 最近一期
 
-[阅读 2026-11-06](./2026-11/2026-11-06.md) · 共 **158** 期存档
+[阅读 2026-11-07](./2026-11/2026-11-07.md) · 共 **159** 期存档
 
 ## 全部存档
 
 | 日期 | 标题（来自文章原文） |
 |---|---|
+| [2026-11-07](./2026-11/2026-11-07.md) | OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation |
 | [2026-11-06](./2026-11/2026-11-06.md) | OpenAI 发布新一代网络安全模型 GPT-6 Cyber |
 | [2026-11-05](./2026-11/2026-11-05.md) | AI is forcing us to pay off 40 years of technical debt |
 | [2026-11-04](./2026-11/2026-11-04.md) | Sparks of Weight-Space Programming: LLMs 能原生读写神经网络权重 |
